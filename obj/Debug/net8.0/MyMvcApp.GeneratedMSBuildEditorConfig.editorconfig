@@ -9,12 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyMvcApp
 build_property.RootNamespace = MyMvcApp
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\
+=======
+build_property.ProjectDir = c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\
+>>>>>>> 56758f8bd4b6206499119632f80ebb9f379e3a59
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application
 build_property._RazorSourceGeneratorDebug = 
 
@@ -51,9 +56,90 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/_ViewStart.cshtml]
+=======
+build_property.MSBuildProjectDirectory = c:\Users\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xVc2VyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xVc2VyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xVc2VyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xVc2VyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/_ViewStart.cshtml]
+>>>>>>> 56758f8bd4b6206499119632f80ebb9f379e3a59
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/MyMvcApp-Contact-Database-Application/Views/Shared/_Layout.cshtml]
+<<<<<<< HEAD
+=======
+build_metadata.AdditionalFiles.TargetPath = TXlNdmNBcHAtQ29udGFjdC1EYXRhYmFzZS1BcHBsaWNhdGlvblxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-0u54hznc3a
+
+[c:/Users/azureuser/GitHub Copilot/MyMvcApp-Contact-Database-Application/Views/Shared/_Layout.cshtml]
+>>>>>>> 56758f8bd4b6206499119632f80ebb9f379e3a59
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ujr1yed5n4
